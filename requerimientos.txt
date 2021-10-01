@@ -1,0 +1,4 @@
+Requerimientos 
+El programa fue creado en la version 3.8.10 de python.
+Se instalaron las libreria numpy, pandas y openpyxl
+se importaron las librerias numpy,pandas y sqlite3
